@@ -1,0 +1,18 @@
+.container-all{
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+.container-all img {
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding-right: 50px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  color: #fff
+}
